@@ -46,3 +46,5 @@ The MTCNN project, which we will refer to as ipazc/MTCNN to differentiate it fro
 ![Capture](https://github.com/dreamboat26/leonidas/assets/125608791/1bf6c7ab-ad2f-4c8c-946a-1333f0235a38)
 ![patch-1](https://github.com/dreamboat26/leonidas/assets/125608791/4d4107fb-00f1-40fb-b647-634205d1b335)
 ![Plot-of-Each-Separate-Face-Detected-in-a-Photograph-of-a-Swim-Team-1024x169](https://github.com/dreamboat26/leonidas/assets/125608791/a51cb1a7-cd14-431c-a36b-f97511363812)
+
+Tutorial Link :- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
