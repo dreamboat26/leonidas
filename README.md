@@ -37,8 +37,8 @@ Perhaps the best-of-breed third-party Python-based MTCNN project is called “MT
 The MTCNN project, which we will refer to as ipazc/MTCNN to differentiate it from the name of the network, provides an implementation of the MTCNN architecture using TensorFlow and OpenCV. There are two main benefits to this project; first, it provides a top-performing pre-trained model and the second is that it can be installed as a library ready for use in your own code.
 
 ## Installation
-!pip install opencv-python
-!pip install mtcnn
+- !pip install opencv-python
+- !pip install mtcnn
 
 ## Results
 ![bounding_box2](https://github.com/dreamboat26/leonidas/assets/125608791/f4b4a817-8c06-43ae-87b6-b5e2bee1c79e)
